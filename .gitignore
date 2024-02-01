@@ -4,3 +4,4 @@ logs/*
 *.csv
 .vs_code
 .idea/
+__pycache__/
