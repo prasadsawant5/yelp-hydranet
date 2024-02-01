@@ -1,0 +1,6 @@
+data/*
+train_photos/*
+logs/*
+*.csv
+.vs_code
+.idea/
